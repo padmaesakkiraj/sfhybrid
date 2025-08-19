@@ -1,6 +1,6 @@
 {
-    "remoteAccessConsumerKey": "3MVG9eYfd1zvW1E7hDSQZmowvAfSqi6oIs4X7vOlPiVQiNnNGNVuUNbA8Pv46dblAboYZx0kl_dKTVO7VjbTn",
-    "oauthRedirectURI": "testsfdc:///mobilesdk/detect/oauth/done",
+    "remoteAccessConsumerKey": "3MVG9GCMQoQ6rpzRYPgeZpWbRx0VyWcefxm6mY5Ht9ijhIJqhQB1pHi9YRFJ8Evna1dFVvLmFgGWJ5swC34Hk",
+    "oauthRedirectURI": "https://lively-ocean-08c1d630f.2.azurestaticapps.net/oauthcallback.html",
     "oauthScopes": ["web", "api"],
     "isLocal": true,
     "startPage": "index.html",
@@ -8,3 +8,4 @@
     "shouldAuthenticate": true,
     "attemptOfflineLoad": false
 }
+
