@@ -44,7 +44,7 @@
     }
 
     /* This method will fetch a list of contact records from salesforce.
-    Just change the soql query to fetch another sobject. */
+    Just change the soql query to fetch another sobject. t*/
     var fetchRecords = function (successHandler) {
         var soql = 'SELECT Id, Name FROM Contact LIMIT 100';
         force.query(soql, successHandler, function(error) {
@@ -65,3 +65,4 @@
 
 </body>
 </html>
+
